@@ -1,14 +1,14 @@
 {
  "data": {
   "versie": 1,
-  "uitgegeven": "2026-11-26T15:49:23Z",
+  "uitgegeven": "2026-11-26T15:49:44Z",
   "uit": false,
   "bericht": "",
   "update": {
-   "versie": "1.0.5",
-   "url": "https://github.com/vdLeeSten/knopen-licenties/releases/download/v1.0.5/RTFtoIDEA-Setup-1.0.5.exe",
-   "sha256": "db44b4e5584900cbf70a3aad02ca4b85e4ec37e2a8a7926402111e00bc319d73",
-   "notities": "Een nieuwe licentie is sneller actief"
+   "versie": "1.0.6",
+   "url": "https://github.com/vdLeeSten/knopen-licenties/releases/download/v1.0.6/RTFtoIDEA-Setup-1.0.6.exe",
+   "sha256": "f2710027c17ab95b675c36bc69eb17aa8314e4090c5e45e4ab036df85ba0d2f8",
+   "notities": "Bijwerken kan nu altijd, ook zonder geldige licentie (knop bovenaan het licentiescherm) \u00b7 Opnieuw op RTFtoIDEA klikken terwijl het al draait opent het venster weer"
   },
   "licenties": {
    "88f5b3d8991b19a9e85ad5e3491a714855d85b85ca883a97602a8b01c4300a61": {
@@ -19,5 +19,5 @@
    }
   }
  },
- "sig": "67605056154f6f6f281e8f3e6fc964d6b049e3544a8c37c5d87ab1ad6d96ebe1edde8febf9a19e63a05a6439ded127abb892c0ea038c6d4a394a30d06c9d2a0b"
+ "sig": "58d8b148726198d41d9e03234771631cc694adbd21b9344332ee5f943d5029bfbbb3fc982f416f390639aeb2daf665dda3b48af72ba2cc324a42806218ddea0a"
 }
