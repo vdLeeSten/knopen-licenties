@@ -1,7 +1,7 @@
 {
  "data": {
   "versie": 1,
-  "uitgegeven": "2026-11-26T15:29:27Z",
+  "uitgegeven": "2026-11-26T15:32:56Z",
   "uit": false,
   "bericht": "",
   "update": {
@@ -11,11 +11,6 @@
    "notities": "Na een update staat er nog maar \u00e9\u00e9n RTFtoIDEA-venster open \u00b7 RTFtoIDEA start maar \u00e9\u00e9n keer \u00b7 Updates worden alleen bij het openen van RTFtoIDEA gecontroleerd"
   },
   "licenties": {
-   "1b4871d719fcd73ac66713423decb6c2fa8e1ea2f1b8f71856fda77c9158c862": {
-    "actief": true,
-    "tot": "",
-    "pcs": []
-   },
    "66b241db5422d7aabe1fe6f4f4bbbc6581127082088811d09cf00db6be835c48": {
     "actief": true,
     "tot": "",
@@ -24,5 +19,5 @@
    }
   }
  },
- "sig": "46dcfe3103a184c2d4105f1a00f4d688825d3f0da51a90fc980304775382a49e7fde9f059da3ecf4355820fe2ca704272f81d3cfd0678a7107eea4d2a9dca104"
+ "sig": "6173b8ff3aaa64ff7f6988a0747015507a1c1ac7bcb5d38fae387416a22dfd2e993f94ac315f70efb617cde49254a0572134697c6cc93d9340ccc7f3ac7f710b"
 }
