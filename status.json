@@ -1,0 +1,18 @@
+{
+ "data": {
+  "versie": 1,
+  "uitgegeven": "2026-11-26T13:23:28Z",
+  "uit": false,
+  "bericht": "",
+  "licenties": {
+   "9110f4d63c4ec7109d2451e793bcf0df409a198d857d00d25d0322ede6d71907": {
+    "actief": true,
+    "tot": "",
+    "pcs": [
+     "f3624c05d2e6e2e177bb9ea5098498b9d30dc9deb39c32fb3bb769bfbba87439"
+    ]
+   }
+  }
+ },
+ "sig": "af0e70189df2f88b663c5e0c79535ea9ade0aac4c5d158ea2f55060390c0d2c79941fea1252bcfb8e0ff09a9517bd5b4ab6225cf5c43ccdcbe25d4e098fc0001"
+}
