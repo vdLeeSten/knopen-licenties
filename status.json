@@ -1,14 +1,14 @@
 {
  "data": {
   "versie": 1,
-  "uitgegeven": "2026-11-26T14:45:27Z",
+  "uitgegeven": "2026-11-26T14:52:37Z",
   "uit": false,
   "bericht": "",
   "update": {
-   "versie": "1.0.2",
-   "url": "https://github.com/vdLeeSten/knopen-licenties/releases/download/v1.0.2/RTFtoIDEA-Setup-1.0.2.exe",
-   "sha256": "27e94ff95458304b2b7a90fbde992d15fda2cd4ba13b91085d466fc379bb8363",
-   "notities": "RTFtoIDEA opent nu in een eigen venster, zonder zwart opdrachtvenster ernaast \u00b7 Nieuwe knop Afsluiten \u00b7 Profielen en staalsoorten kies je nu zelf via Profielen\u2026, met zoeken in de IDEA-bibliotheek \u00b7 Projectnaam, projectnummer en auteur voor de IDEA-ra"
+   "versie": "1.0.3",
+   "url": "https://github.com/vdLeeSten/knopen-licenties/releases/download/v1.0.3/RTFtoIDEA-Setup-1.0.3.exe",
+   "sha256": "687244245f175006a71c30d441122dff842f0f4022ddf7dd7fc97df44e508db2",
+   "notities": "Duidelijkere melding als er een update is, met een overzicht van wat er nieuw is \u00b7 Bijwerken gaat nu stil op de achtergrond"
   },
   "licenties": {
    "9110f4d63c4ec7109d2451e793bcf0df409a198d857d00d25d0322ede6d71907": {
@@ -25,5 +25,5 @@
    }
   }
  },
- "sig": "93aa5a9fd3d5ae7db1634187f642e189bc7714c8e50130a6d48e97721d99d3eb129bc472597793f2950e8346570c1d9ee4f275387cff9b274b3255848a6dd407"
+ "sig": "3e0de231ec9febfa17bb1c435f30d9c4d3ddf4be5e327ca28bdb2ddc7d3951511134bdebb4889581542ffc26d83850f906e591af566b937fb8c0ba772fc2f80a"
 }
