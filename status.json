@@ -1,7 +1,7 @@
 {
  "data": {
   "versie": 1,
-  "uitgegeven": "2026-11-26T15:42:48Z",
+  "uitgegeven": "2026-11-26T15:48:33Z",
   "uit": false,
   "bericht": "",
   "update": {
@@ -14,10 +14,12 @@
    "c0741b256d485095fd226179366914af203d787679f68a173c973ebf6e0c174e": {
     "actief": true,
     "tot": "",
-    "pcs": [],
+    "pcs": [
+     "a23a3a88fb824d3020dea1b94111603efc048f739569a173cc158ba2e510f90e"
+    ],
     "open": "2026-12-03"
    }
   }
  },
- "sig": "595ab929a6fdd418dee1691d0c1453a99355b1677fa176bd729c6742f91ddf64148d42f49f01cb7d3c81623dc6a52b9d6e0db7f75b9592f0dafcbd11fc713f0a"
+ "sig": "3e73466457ffb07e287077291a1c55c07e0c7a233c9b40f61a5f4b01b125f46013ee4bdd45636d9c59c551eb472e9f003927e9a989d3a5ab4b32ea14c1e4ea00"
 }
