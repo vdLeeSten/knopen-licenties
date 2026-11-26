@@ -1,9 +1,9 @@
 {
  "data": {
   "versie": 1,
-  "uitgegeven": "2026-11-26T13:23:28Z",
-  "uit": false,
-  "bericht": "",
+  "uitgegeven": "2026-11-26T13:23:43Z",
+  "uit": true,
+  "bericht": "Test: tijdelijk uitgeschakeld.",
   "licenties": {
    "9110f4d63c4ec7109d2451e793bcf0df409a198d857d00d25d0322ede6d71907": {
     "actief": true,
@@ -14,5 +14,5 @@
    }
   }
  },
- "sig": "af0e70189df2f88b663c5e0c79535ea9ade0aac4c5d158ea2f55060390c0d2c79941fea1252bcfb8e0ff09a9517bd5b4ab6225cf5c43ccdcbe25d4e098fc0001"
+ "sig": "1fa7609e7fb65251e8003c0080350bd00a5fceedba6ffa6fde35a30c92ec2ef8caa8d362303ec2709df1ee2e113f7efd0350cfcb7bebf141faf70ed630353c07"
 }
