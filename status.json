@@ -1,9 +1,15 @@
 {
  "data": {
   "versie": 1,
-  "uitgegeven": "2026-11-26T13:38:42Z",
+  "uitgegeven": "2026-11-26T14:03:22Z",
   "uit": false,
   "bericht": "",
+  "update": {
+   "versie": "1.0.1",
+   "url": "https://github.com/vdLeeSten/knopen-licenties/releases/download/v1.0.1/RTFtoIDEA-Setup-1.0.1.exe",
+   "sha256": "9e1647d52cb3d196951a7c85a84f81668c78af9308b06179146c9ec9b24c5bbd",
+   "notities": "V1.0.1"
+  },
   "licenties": {
    "9110f4d63c4ec7109d2451e793bcf0df409a198d857d00d25d0322ede6d71907": {
     "actief": true,
@@ -19,5 +25,5 @@
    }
   }
  },
- "sig": "a542df5a1d3200543adfaaf4bc5d6510f43f8510a1b80cde078f257d4693029db03445166b5d449cdb9e5e91d8f4c7ccbd55bc449f7f2973458c07ae105f6309"
+ "sig": "ca3b2890af5f557929b4c008dfbd95aa9dbfacfedd5a85d86e4c4f6a1fd402d5305dd0dcec538ab870b6f97c3e0e144ba62ad5a6bfce1b1ba3ede04a8dd24e07"
 }
