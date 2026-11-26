@@ -1,23 +1,25 @@
 {
  "data": {
   "versie": 1,
-  "uitgegeven": "2026-11-26T15:35:28Z",
+  "uitgegeven": "2026-11-26T15:36:00Z",
   "uit": false,
   "bericht": "",
   "update": {
-   "versie": "1.0.5",
-   "url": "https://github.com/vdLeeSten/knopen-licenties/releases/download/v1.0.5/RTFtoIDEA-Setup-1.0.5.exe",
-   "sha256": "db44b4e5584900cbf70a3aad02ca4b85e4ec37e2a8a7926402111e00bc319d73",
-   "notities": "Een nieuwe licentie is sneller actief"
+   "versie": "1.0.4",
+   "url": "https://github.com/vdLeeSten/knopen-licenties/releases/download/v1.0.4/RTFtoIDEA-Setup-1.0.4.exe",
+   "sha256": "dc243921c0ad273d95d9ca56b58e94980bb749dbf16f1e63a9b00c74a1b45200",
+   "notities": "Na een update staat er nog maar \u00e9\u00e9n RTFtoIDEA-venster open \u00b7 RTFtoIDEA start maar \u00e9\u00e9n keer \u00b7 Updates worden alleen bij het openen van RTFtoIDEA gecontroleerd"
   },
   "licenties": {
    "66b241db5422d7aabe1fe6f4f4bbbc6581127082088811d09cf00db6be835c48": {
     "actief": true,
     "tot": "",
-    "pcs": [],
+    "pcs": [
+     "5e0e211efccb9c882d2a205bc345cccd20c7d183b43aec926818eb0d1f6ffa8c"
+    ],
     "open": "2026-12-03"
    }
   }
  },
- "sig": "82babaaa6a263ad24cfb960b8ca917cd6487bdacd353c8d8749e2760c77c4e77ac571f083a3c3dbc21c2fb51f5eac0cb9c8d685e2fc858db39d5555a56a27803"
+ "sig": "147c7b21599dbe24d21e2bb80fc9b6dd585221d9b6038ae51273ca9137e1b68df42573ae26e687f18dc9270ca68f16dca6fde52ff432d387cbf6450a67018d0d"
 }
