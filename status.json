@@ -1,12 +1,12 @@
 {
  "data": {
   "versie": 1,
-  "uitgegeven": "2026-11-26T13:24:27Z",
+  "uitgegeven": "2026-11-26T13:24:32Z",
   "uit": false,
   "bericht": "",
   "licenties": {
    "9110f4d63c4ec7109d2451e793bcf0df409a198d857d00d25d0322ede6d71907": {
-    "actief": false,
+    "actief": true,
     "tot": "",
     "pcs": [
      "f3624c05d2e6e2e177bb9ea5098498b9d30dc9deb39c32fb3bb769bfbba87439"
@@ -14,5 +14,5 @@
    }
   }
  },
- "sig": "8086cf9093c80fe9dc926b58e4ff046a1418fcddd3c3470d8568e1f25dee9af37ad958f857d7a7b633e8dfa0a3b2d83218dfa9dca8310e0fe31e4757969ad304"
+ "sig": "2c6ed14756d44af9a92e6ebb9c8a1b6d123315067aaad3d823b765769000d686accfbc1d1f0ca5891f1b6abd037832cbbaa6826cb63dcf44ccc809fa92352d01"
 }
