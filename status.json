@@ -1,14 +1,14 @@
 {
  "data": {
   "versie": 1,
-  "uitgegeven": "2026-11-27T07:22:57Z",
+  "uitgegeven": "2026-11-27T09:18:49Z",
   "uit": false,
   "bericht": "",
   "update": {
-   "versie": "1.0.8",
-   "url": "https://github.com/vdLeeSten/knopen-licenties/releases/download/v1.0.8/RTFtoIDEA-Setup-1.0.8.exe",
-   "sha256": "e70a5bab03e887d1355b09afded527c016c14ced28221e09344828b2ceaf211a",
-   "notities": "Bijwerken lukt nu ook als er nog een IDEA-venster openstaat dat vanuit RTFtoIDEA is geopend \u00b7 Projecten heten nu <naam>.knopen: dubbelklikken opent ze direct in RTFtoIDEA. Oude .knopen.html-projecten worden bij het openen vanzelf hernoemd \u00b7 De update"
+   "versie": "1.0.9",
+   "url": "https://github.com/vdLeeSten/knopen-licenties/releases/download/v1.0.9/RTFtoIDEA-Setup-1.0.9.exe",
+   "sha256": "c3144a147eae5759b5ae3c6173dea696182bbbd81f228a6044938de4afa04988",
+   "notities": "Nieuw: waarschuwing voor knopen waar de krachten of momenten uit het rapport niet in evenwicht zijn \u00b7 Instellingen toont welke IDEA StatiCa-versie RTFtoIDEA gebruikt, met een waarschuwing als die niet past \u00b7 Nieuwe knoppenbalk bovenin, ingedeeld in g"
   },
   "licenties": {
    "88f5b3d8991b19a9e85ad5e3491a714855d85b85ca883a97602a8b01c4300a61": {
@@ -21,5 +21,5 @@
    }
   }
  },
- "sig": "cc14d146e86ba40f2ea2d60c6e50d256188e98fdbc2d7da61072845f2786eefc02eb8bf9b81c19663c15589fa589b477300585d7a972ca86e6fcac55f4d7730c"
+ "sig": "90f05d0f2e87cf9ff588d94df6a851ff5e2c83444c2ca484b4ad80fd46903b6729e59eb9b59e72a3e4f916770d4d2d53f323aeabf1ef7f15dc6bd9a68c578603"
 }
