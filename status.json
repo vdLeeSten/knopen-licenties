@@ -1,14 +1,14 @@
 {
  "data": {
   "versie": 1,
-  "uitgegeven": "2026-11-27T07:15:08Z",
+  "uitgegeven": "2026-11-27T07:22:57Z",
   "uit": false,
   "bericht": "",
   "update": {
-   "versie": "1.0.7",
-   "url": "https://github.com/vdLeeSten/knopen-licenties/releases/download/v1.0.7/RTFtoIDEA-Setup-1.0.7.exe",
-   "sha256": "fe2deb78561daaad2e6eee67d73ef03cb9e38f42ac6130b4a38ed0720c132877",
-   "notities": "Projecten heten nu <naam>.knopen: dubbelklikken opent ze direct in RTFtoIDEA. Oude .knopen.html-projecten worden bij het openen vanzelf hernoemd \u00b7 De update-melding verschijnt nu ook als je RTFtoIDEA kort na het sluiten opnieuw opent"
+   "versie": "1.0.8",
+   "url": "https://github.com/vdLeeSten/knopen-licenties/releases/download/v1.0.8/RTFtoIDEA-Setup-1.0.8.exe",
+   "sha256": "e70a5bab03e887d1355b09afded527c016c14ced28221e09344828b2ceaf211a",
+   "notities": "Bijwerken lukt nu ook als er nog een IDEA-venster openstaat dat vanuit RTFtoIDEA is geopend \u00b7 Projecten heten nu <naam>.knopen: dubbelklikken opent ze direct in RTFtoIDEA. Oude .knopen.html-projecten worden bij het openen vanzelf hernoemd \u00b7 De update"
   },
   "licenties": {
    "88f5b3d8991b19a9e85ad5e3491a714855d85b85ca883a97602a8b01c4300a61": {
@@ -21,5 +21,5 @@
    }
   }
  },
- "sig": "e5a517e70d4584e95493018d62f138b021448bd747ac16de575e3404d2a6112786e6188012f99173c4e281cfac68dabc78cad01cb5c5484f86dda9939869ba0c"
+ "sig": "cc14d146e86ba40f2ea2d60c6e50d256188e98fdbc2d7da61072845f2786eefc02eb8bf9b81c19663c15589fa589b477300585d7a972ca86e6fcac55f4d7730c"
 }
