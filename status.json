@@ -1,14 +1,14 @@
 {
  "data": {
   "versie": 1,
-  "uitgegeven": "2026-11-27T07:08:01Z",
+  "uitgegeven": "2026-11-27T07:15:08Z",
   "uit": false,
   "bericht": "",
   "update": {
-   "versie": "1.0.6",
-   "url": "https://github.com/vdLeeSten/knopen-licenties/releases/download/v1.0.6/RTFtoIDEA-Setup-1.0.6.exe",
-   "sha256": "55d1ac567ee4c24081a637247cd31beb1e178c18b8df7723d3bfa5c2a1b24ade",
-   "notities": "Bijwerken kan nu altijd, ook zonder geldige licentie (knop bovenaan het licentiescherm) \u00b7 Opnieuw op RTFtoIDEA klikken terwijl het al draait opent het venster weer"
+   "versie": "1.0.7",
+   "url": "https://github.com/vdLeeSten/knopen-licenties/releases/download/v1.0.7/RTFtoIDEA-Setup-1.0.7.exe",
+   "sha256": "fe2deb78561daaad2e6eee67d73ef03cb9e38f42ac6130b4a38ed0720c132877",
+   "notities": "Projecten heten nu <naam>.knopen: dubbelklikken opent ze direct in RTFtoIDEA. Oude .knopen.html-projecten worden bij het openen vanzelf hernoemd \u00b7 De update-melding verschijnt nu ook als je RTFtoIDEA kort na het sluiten opnieuw opent"
   },
   "licenties": {
    "88f5b3d8991b19a9e85ad5e3491a714855d85b85ca883a97602a8b01c4300a61": {
@@ -21,5 +21,5 @@
    }
   }
  },
- "sig": "0329ca2d4cc27da1a70fa24800cd887d02194acd78fd0b6b37813312d1ab3729a4a18abd5a36a7f2c8ec68ba1b0569052fbe5ada722869b0cd77b39b2c166f02"
+ "sig": "e5a517e70d4584e95493018d62f138b021448bd747ac16de575e3404d2a6112786e6188012f99173c4e281cfac68dabc78cad01cb5c5484f86dda9939869ba0c"
 }
